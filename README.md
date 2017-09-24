@@ -1,2 +1,3 @@
-# basic-programming
-程序设计基础课程仓库
+# 有用的网站
+
+[萌码](http://www.mengma.com/)
